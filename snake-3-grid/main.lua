@@ -2,8 +2,8 @@
     Snake Love 2D
     Based on Snake 2D
 
-    snake-0
-    "The Welcome Message"
+    snake-3
+    "Grid"
 
     -- Main Program --
 

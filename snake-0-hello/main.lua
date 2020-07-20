@@ -3,7 +3,7 @@
     Based on Snake 2D
 
     snake-0
-    "The Welcome Message"
+    "Hello"
 
     -- Main Program --
 
