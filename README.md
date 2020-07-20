@@ -2,7 +2,7 @@
 
 This repository contains a game called "_Snake Love 2D_", made with [Lua][credits-lua] and the [Love 2D][credits-love2d] framework. It's structured in a series of many different subrepositories, so that developers can follow along and use it as a basis on which to develop the game, starting from scratch, going all the way to a fully implemented game, at the very last stage of development.
 
-The code is commented rairly thoroughly with the intention that, by reading it, developers are able to get a sense of what each _Lua_ module does.
+The code is commented fairly thoroughly with the intention that, by reading it, developers are able to get a sense of what each _Lua_ module does.
 
 ## <a name='ToC'>Table of Contents</a>
 
