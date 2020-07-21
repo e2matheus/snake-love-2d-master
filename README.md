@@ -12,6 +12,7 @@ The code is commented fairly thoroughly with the intention that, by reading it, 
     - ***Update 1:*** [Low-res](#low-res)
     - ***Update 2:*** [Font](#font)
     - ***Update 3:*** [Grid](#grid)
+    - ***Update 4:*** [Title](#title)
     - [***Future updates***](#FrU)
 
 ---
@@ -124,9 +125,27 @@ Used for debugging.
 
 **[[⬆]](#ToC)**
 
+### ***Update 4:*** <a name='title'>[Title][update-4]</a>
+
+Sets the title of the game window as 'Snake Love 2D'.
+
+```lua
+-- main.lua
+-- .........
+
+  function love.load()
+
+    love.window.setTitle('Snake Love 2D')
+
+    -- ...
+
+  end
+```
+
+**[[⬆]](#ToC)**
+
 ### <a name='FrU'>***Future updates***</a>
 
-  - ***Update 4:*** Title
   - ***Update 5:*** Color Mapper
   - ***Update 6:*** Quit game
   - ***Update 7:*** Ground
@@ -203,5 +222,6 @@ The Game Design Document explained by [Zenva Academy][credits-zenva-twitter], in
    [update-1]: https://github.com/e2matheus/snake-love-2d-master/tree/master/snake-1-low-res "Low-res update code"
    [update-2]: https://github.com/e2matheus/snake-love-2d-master/tree/master/snake-2-font "Font update code"
    [update-3]: https://github.com/e2matheus/snake-love-2d-master/tree/master/snake-3-grid "Grid update code"
+   [update-4]: https://github.com/e2matheus/snake-love-2d-master/tree/master/snake-4-title "Title update code"
 
 **[[⬆]](#ToC)**
